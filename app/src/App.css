@@ -110,6 +110,15 @@
   height: 50px;
 }
 
+.css-e657no {
+  background-image: linear-gradient(to left, rgb(203, 94, 238), rgb(12, 215, 228));
+  color: transparent;
+  background-clip: text;
+  font-weight: var(--chakra-fontWeights-black);
+  cursor: pointer;
+  font-size: var(--chakra-fontSizes-2xl);
+}
+
 /* KeyFrames */
 @-webkit-keyframes gradient-animation {
   0% {

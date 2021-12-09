@@ -1,0 +1,19 @@
+{
+    "name": "Toothless",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "F6C4puf6AKDC75vumC6sE9s4iYYELhszMKT2AZmT4adx",
+          "share": 100
+        }
+      ]
+    }
+  }
